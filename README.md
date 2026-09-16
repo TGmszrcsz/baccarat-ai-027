@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 026 篇 - 百家乐Ai预测分析工具：概率校准关注的是说法与结果是否相符](https://github.com/TGmszrcsz/baccarat-ai-026) ｜ [下一篇：第 028 篇 - 百家乐Ai预测分析工具：对数损失揭示过度自信的代价](https://github.com/TGmszrcsz/baccarat-ai-028)
+
+<!-- article-chain:end -->
+
 只看最高项是否命中，会忽略其余概率的分配。本篇围绕“用Brier分数检查完整概率向量”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
